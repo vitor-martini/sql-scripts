@@ -1,2 +1,2 @@
 # sql-scripts
-Scripts em SQL
+Repositório com o objetivo de armazenar scripts desenvolvidos em SQL.
